@@ -302,6 +302,13 @@ export default function Storefront({ user, onLogin, onLogout, onUpdateProfile, o
 
       {/* Main Content */}
       <main className="flex-1 pb-16">
+        {/* Welcome Section */}
+        <div className="max-w-7xl mx-auto px-4 mt-8">
+           <h1 className="text-4xl md:text-5xl font-sans font-bold text-center text-gray-900 dark:text-white transition-colors">
+             limon.bro 🚀
+           </h1>
+        </div>
+
         {/* Banner Section */}
         <div className="max-w-7xl mx-auto px-4 mt-4 grid grid-cols-1 lg:grid-cols-12 gap-4">
           <aside className="hidden lg:block lg:col-span-3 bg-white rounded-xl shadow-sm border border-gray-100 self-start">
