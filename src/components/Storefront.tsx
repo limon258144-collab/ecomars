@@ -189,7 +189,7 @@ export default function Storefront({ user, onLogin, onLogout, onUpdateProfile, o
             <div className="bg-gray-100 dark:bg-gray-800 rounded-lg flex items-center px-4 py-2 border-2 border-transparent focus-within:border-orange-600 focus-within:bg-white dark:focus-within:bg-gray-700 transition-all shadow-sm">
               <input
                 type="text"
-                placeholder="Search in Bazaar Hub..."
+                placeholder="Search in Limon.bro..."
                 className="bg-transparent border-none outline-none w-full text-sm py-1 dark:text-gray-100"
                 value={searchQuery}
                 onInput={(e) => setSearchQuery(e.currentTarget.value)}
@@ -585,7 +585,7 @@ export default function Storefront({ user, onLogin, onLogout, onUpdateProfile, o
                        </div>
                        <div>
                           <p className="text-sm text-gray-500">Payment to</p>
-                          <p className="font-bold">Bazaar Hub Ltd.</p>
+                          <p className="font-bold">Limon.bro Ltd.</p>
                        </div>
                     </div>
                     <div>
