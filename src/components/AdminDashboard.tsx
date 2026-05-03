@@ -59,8 +59,8 @@ export default function AdminDashboard({ user, onLogout, onBackToStore, isDarkMo
       <aside className="w-64 bg-gray-900 dark:bg-black text-white flex flex-col border-r dark:border-gray-800 transition-colors">
         <div className="p-6 border-b border-gray-800">
           <div className="flex items-center gap-2 mb-2">
-            <div className="w-8 h-8 bg-orange-600 rounded flex items-center justify-center font-bold shadow-lg">B</div>
-            <span className="font-display font-bold text-lg">Bazaar Admin</span>
+            <div className="w-8 h-8 bg-orange-600 rounded flex items-center justify-center font-bold shadow-lg">L</div>
+            <span className="font-display font-bold text-lg">Limon Admin</span>
           </div>
           <p className="text-[10px] text-gray-500 uppercase tracking-widest font-bold">Admin: {user?.name || 'Limon'}</p>
         </div>

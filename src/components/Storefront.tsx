@@ -177,10 +177,10 @@ export default function Storefront({ user, onLogin, onLogout, onUpdateProfile, o
           {/* Logo */}
           <div className="flex items-center gap-2 cursor-pointer group flex-shrink-0">
             <div className="w-9 h-9 bg-orange-600 rounded-lg flex items-center justify-center text-white font-display font-bold text-xl shadow-lg transition-transform group-hover:rotate-6">
-              B
+              L
             </div>
             <h1 className="text-xl font-display font-bold tracking-tight text-gray-900 dark:text-white hidden sm:block">
-              Bazaar<span className="text-orange-600">Hub</span>
+              Limon<span className="text-orange-600">Bro</span>
             </h1>
           </div>
 
@@ -617,7 +617,7 @@ export default function Storefront({ user, onLogin, onLogout, onUpdateProfile, o
       <footer className="bg-white dark:bg-gray-900 border-t dark:border-gray-800 py-12 px-4 transition-colors">
          <div className="max-w-7xl mx-auto grid grid-cols-1 md:grid-cols-4 gap-8 text-sm text-gray-600 dark:text-gray-400">
            <div>
-             <h4 className="font-bold text-gray-900 dark:text-white mb-4 uppercase">Bazaar Hub</h4>
+             <h4 className="font-bold text-gray-900 dark:text-white mb-4 uppercase">Limon Bro</h4>
              <p>The most trusted online marketplace in Bangladesh.</p>
            </div>
            <div>

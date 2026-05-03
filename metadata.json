@@ -1,5 +1,5 @@
 {
-  "name": "Bazaar Hub",
+  "name": "Limon Bro",
   "description": "A comprehensive e-commerce platform featuring a storefront, admin dashboard with sales analytics, order management, and MFS payment simulations.",
   "requestFramePermissions": [],
   "majorCapabilities": ["Admin Dashboard", "Sales Analytics", "Inventory Management", "MFS Payments"]
